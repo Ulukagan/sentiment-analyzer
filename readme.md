@@ -1,4 +1,5 @@
 🧠 Sentiment Analysis Streamlit App
+
 This project is a simple and interactive Sentiment Analyzer built using Python, and Streamlit. It allows users to input a comment or sentence and get an instant sentiment prediction — Positive, Negative, or Neutral — powered by VADER (Valence Aware Dictionary and sEntiment Reasoner).
 
 🚀 Features
